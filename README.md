@@ -16,5 +16,9 @@ To predict Credit Risk, using the credit card credit dataset from LendingClub, a
                           
 ![image](https://user-images.githubusercontent.com/31424076/131608465-0d9828ff-0e18-4241-96e3-50409bdf4fa7.png)
 
+                          For CombinationOverUnderSampling using SMOTEENN:
+                          
+![image](https://user-images.githubusercontent.com/31424076/131608649-b2e47f99-d7fe-4d7d-a15d-7103a58856ac.png)
+
 
 # Summary
