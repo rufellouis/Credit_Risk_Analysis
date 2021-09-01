@@ -31,3 +31,4 @@ Balanced Accuracy Score: 0.75
 ![image](https://user-images.githubusercontent.com/31424076/131609297-4cc7d874-d700-45b4-a47b-1851ba8ec372.png)
 Balanced Accuracy Score: 0.67
 # Summary
+Even though the EasyEmsembleAdaBoostClassifier had the best F1 scores for both Credit Risk conditions in the y-variable, compared to all other classifiers, its overall Accuracy is 10% below the leaders like 
