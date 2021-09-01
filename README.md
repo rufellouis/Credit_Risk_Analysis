@@ -12,6 +12,9 @@ To predict Credit Risk, using the credit card credit dataset from LendingClub, a
                           
 ![image](https://user-images.githubusercontent.com/31424076/131608361-1701884a-8853-41cd-abaa-4541067c0ee0.png)
 
+                          For UnderSampling using CLUSTERCENTROIDS:
+                          
+![image](https://user-images.githubusercontent.com/31424076/131608465-0d9828ff-0e18-4241-96e3-50409bdf4fa7.png)
 
 
 # Summary
