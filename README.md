@@ -10,7 +10,8 @@ To predict Credit Risk, using the credit card credit dataset from LendingClub, a
 
                           For RandomOverSampling:
                           
-                          ![image](https://user-images.githubusercontent.com/31424076/131608346-29cc0055-23be-4410-8628-5c23224d5875.png)
+![image](https://user-images.githubusercontent.com/31424076/131608361-1701884a-8853-41cd-abaa-4541067c0ee0.png)
+
 
 
 # Summary
