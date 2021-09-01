@@ -24,6 +24,10 @@ Balanced Accuracy Score: 0.74
 Balanced Accuracy Score: 0.78
 
                           For BalancedRandomForestClassifier:
+![image](https://user-images.githubusercontent.com/31424076/131609138-89584e8c-aec2-4e83-8dea-bc4faa2a3f5e.png)
+Balanced Accuracy Score: 0.75
 
-
+                          For EasyEmsembleAdaBoostClassifier:
+![image](https://user-images.githubusercontent.com/31424076/131609297-4cc7d874-d700-45b4-a47b-1851ba8ec372.png)
+Balanced Accuracy Score: 0.67
 # Summary
