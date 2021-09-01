@@ -11,6 +11,7 @@ Balanced Accuracy Score: 0.54
                           For RandomOverSampling using SMOTE:
                           
 ![image](https://user-images.githubusercontent.com/31424076/131608361-1701884a-8853-41cd-abaa-4541067c0ee0.png)
+Balanced Accuracy Score: 0.78
 
                           For UnderSampling using CLUSTERCENTROIDS:
                           
